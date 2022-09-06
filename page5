@@ -17,3 +17,10 @@
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+<h2> This is a poll that I have taken that shows how many people prefer labs over poodles! </h2>
+<div class="progress">
+  <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
