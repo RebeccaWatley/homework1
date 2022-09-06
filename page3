@@ -18,3 +18,13 @@
 <div class="alert alert-success" role="alert">
   A simple success alert—check it out!
 </div>
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown button
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Alert 1</a></li>
+    <li><a class="dropdown-item" href="#">Alert 2</a></li>
+    <li><a class="dropdown-item" href="#">Alert 3</a></li>
+  </ul>
+</div>
