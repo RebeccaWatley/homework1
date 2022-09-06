@@ -10,26 +10,10 @@
     <h1>WebPage #5!</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 <div class="card">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="https://th.bing.com/th/id/OIP.jJ7eDsUXWfzTXmZsdg_CugHaE8?w=302&h=201&c=7&r=0&o=5&dpr=1.25&pid=1.7" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Yellow Labador</h5>
     <p class="card-text"> This is my favorite type of dog! I have had 3 dogs in my life and they have all been labs! .</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-<div class="card" aria-hidden="true">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title placeholder-glow">
-      <span class="placeholder col-6"></span>
-    </h5>
-    <p class="card-text placeholder-glow">
-      <span class="placeholder col-7"></span>
-      <span class="placeholder col-4"></span>
-      <span class="placeholder col-4"></span>
-      <span class="placeholder col-6"></span>
-      <span class="placeholder col-8"></span>
-    </p>
-    <a href="#" tabindex="-1" class="btn btn-primary disabled placeholder col-6"></a>
   </div>
 </div>
