@@ -16,3 +16,10 @@
   <li class="list-group-item">Purple</li>
   <li class="list-group-item">Yellow</li>
 </ul>
+  <h1>What is your favorite color?! Please select one.</h1>
+<select class="form-select" aria-label="Default select example">
+  <option selected>Open this select menu</option>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+  <option value="3">Three</option>
+</select>
